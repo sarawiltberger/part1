@@ -3,6 +3,7 @@
 
 #include <string>
 #include <vector>
+#include <memory>
 #include <set>
 #include "Puzzle8State.h"
 
